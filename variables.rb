@@ -13,3 +13,7 @@ puts example
 
 puts "variables are any previously undefined word that"
 puts "starts with a lowercase letter."
+
+testing = "steph curry es crack"
+
+puts testing
